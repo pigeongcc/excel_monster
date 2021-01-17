@@ -1,0 +1,2 @@
+('C:\\Users\\gulya\\Documents\\GitHub\\sessions_stable_2\\build\\main\\PYZ-00.pyz',
+ [])
